@@ -1,0 +1,18 @@
+{
+  "cwd": "E:\\f7",
+  "type": [
+    "web"
+  ],
+  "name": "OptimalSolutionsStaff",
+  "framework": "core",
+  "template": "blank",
+  "bundler": false,
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false
+}
